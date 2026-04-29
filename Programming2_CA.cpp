@@ -14,7 +14,7 @@ void userinput(int &size){
 }
 
 void upperhalf(int size){
-    cout<<"- - - Dax Sysmetric Diamond - - -"<<endl;
+    cout<<"- - - Dax Sysmmetric Diamond - - -"<<endl;
     cout<<endl;
     // LOOP FOR PRINTING THE FIRST HALF OR THE DIAMOND
     for(int i = 1; i <= size; i++ ){
